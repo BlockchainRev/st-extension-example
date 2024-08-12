@@ -1,1 +1,11 @@
-/* All style elements for your extension go here */
+.custom-server-settings .menu_button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 5px;
+    border: none;
+    cursor: pointer;
+}
+
+.custom-server-settings .menu_button:hover {
+    background-color: #45a049;
+}

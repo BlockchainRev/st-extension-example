@@ -1,11 +1,11 @@
 {
-    "display_name": "Name Displayed in SillyTavern",
+    "display_name": "Custom Server Integration",
     "loading_order": 9,
     "requires": [],
     "optional": [],
     "js": "index.js",
     "css": "style.css",
-    "author": "yourNameHere",
+    "author": "blockchaindude2",
     "version": "1.0.0",
     "homePage": "yourUrlHere"
 }

@@ -1,33 +1,26 @@
-# SillyTavern Extension Example
+# Custom Server Integration
 
-*Provide a brief description of how your extension works, what problem it aims to solve.*
+This extension integrates SillyTavern with a custom server for enhanced capabilities.
 
 ## Features
 
-*Describe some of the main selling points of your extension.*
+- Sends messages to a custom server and receives responses.
+- Provides UI elements for configuration.
 
 ## Installation and Usage
 
 ### Installation
 
-*In most cases, this should just be using ST's inbuilt extension installer.* 
+Simply place the extension in the `scripts/extensions/third-party/` directory.
 
 ### Usage
 
-*Explain how to use this extension.*
-
-## Prerequisites
-
-*Specify the version of ST necessary here.*
+Use the "Test Server Connection" button to check the connection to your custom server.
 
 ## Support and Contributions
 
-*Where should someone ask for support?*
-
-*Consider including your own contact info for help/questions.*
-
-*How can people help add to this extension?*
+Contact `YourName` at `yourEmail@example.com` for support.
 
 ## License
 
-*Be cool, use an open source license.*
+This extension is open-source under the MIT License.
